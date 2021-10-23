@@ -34,7 +34,7 @@ namespace WebApplication_HTTP5101_Assignment2_LisleLojo.Controllers
 
             for (int i = 0; i <= 4; i++)
             {
-                //distance = cities[i];
+                distance = 0;
                 for (int j = 0; j <= 4; j++)
                 {   
                     cities[i] = 0;
